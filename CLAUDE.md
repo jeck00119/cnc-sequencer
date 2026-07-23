@@ -36,5 +36,5 @@ requirements, degraded modes, capture behavior.
 
 ## Git
 
-- `origin` = github.com/jeck00119/cnc-sequencer (private, the user's
+- `origin` = github.com/jeck00119/cnc-sequencer (public, the user's
   account).
