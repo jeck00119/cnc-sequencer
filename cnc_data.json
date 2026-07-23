@@ -1,0 +1,26 @@
+{
+  "port": "/dev/serial/by-id/usb-STMicroelectronics_MARLIN_STM32G0B1RE_CDC_in_FS_Mode_20793673594D-if00",
+  "camera_source": "basler",
+  "camera_device": "/dev/video0",
+  "basler_serial": "",
+  "feedrate": 3000,
+  "dwell_seconds": 2.0,
+  "loop_count": 50,
+  "step": 5,
+  "positions": [
+    {
+      "name": "PosA",
+      "x": 200.0,
+      "y": 180.0,
+      "enabled": true,
+      "capture": true
+    },
+    {
+      "name": "PosB",
+      "x": 205.0,
+      "y": 180.0,
+      "enabled": true,
+      "capture": true
+    }
+  ]
+}
