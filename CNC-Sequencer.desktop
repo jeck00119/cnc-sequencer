@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CNC Sequencer
+Comment=CNC jog, saved positions and sequence runner GUI
+Exec=/usr/bin/python3 /home/jetson/Desktop/cnc-sequencer/cnc_sequencer.py
+Path=/home/jetson/Desktop/cnc-sequencer
+Icon=applications-engineering
+Terminal=false
+Categories=Utility;
+StartupNotify=true
